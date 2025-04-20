@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T21:17:56.757Z",
+  "generated_at": "2026-10-24T21:17:58.462Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -234,6 +234,71 @@
       "last_pushed_at": "2025-04-13T00:22:32.701Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:20": {
+      "kind": "problem",
+      "id": "20",
+      "title": "Decision Tree Learning",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/20",
+      "path": "problems/0020-decision-tree-learning",
+      "first_solved_at": "2025-04-20T22:08:29.733Z",
+      "last_pushed_at": "2025-04-20T22:08:29.733Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:21": {
+      "kind": "problem",
+      "id": "21",
+      "title": "Pegasos Kernel SVM Implementation",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/21",
+      "path": "problems/0021-pegasos-kernel-svm-implementation",
+      "first_solved_at": "2025-04-20T22:40:05.573Z",
+      "last_pushed_at": "2025-04-20T22:40:05.573Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2025-04-20T22:47:38.304Z",
+      "last_pushed_at": "2025-04-20T22:47:38.304Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2025-04-20T23:33:11.961Z",
+      "last_pushed_at": "2025-04-20T23:33:11.961Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2025-04-20T23:48:27.277Z",
+      "last_pushed_at": "2025-04-20T23:48:27.277Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
