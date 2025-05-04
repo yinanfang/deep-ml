@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T21:18:01.887Z",
+  "generated_at": "2026-10-24T21:18:03.508Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -325,6 +325,32 @@
       "last_pushed_at": "2025-04-24T00:30:21.500Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2025-05-04T21:53:31.885Z",
+      "last_pushed_at": "2025-05-04T21:53:31.885Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:26": {
+      "kind": "problem",
+      "id": "26",
+      "title": "Implementing Basic Autograd Operations",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/26",
+      "path": "problems/0026-implementing-basic-autograd-operations",
+      "first_solved_at": "2025-05-04T21:55:24.278Z",
+      "last_pushed_at": "2025-05-04T21:55:24.278Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
