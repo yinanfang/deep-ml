@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T21:18:03.508Z",
+  "generated_at": "2026-10-24T21:18:05.151Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -349,6 +349,32 @@
       "path": "problems/0026-implementing-basic-autograd-operations",
       "first_solved_at": "2025-05-04T21:55:24.278Z",
       "last_pushed_at": "2025-05-04T21:55:24.278Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:12": {
+      "kind": "problem",
+      "id": "12",
+      "title": "Singular Value Decomposition (SVD) of 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/12",
+      "path": "problems/0012-singular-value-decomposition-svd-of-2x2-matrix",
+      "first_solved_at": "2025-05-25T00:06:23.625Z",
+      "last_pushed_at": "2025-05-25T00:06:23.625Z",
+      "language": "python",
+      "lines": 43
+    },
+    "problem:28": {
+      "kind": "problem",
+      "id": "28",
+      "title": "SVD of a 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/28",
+      "path": "problems/0028-svd-of-a-2x2-matrix",
+      "first_solved_at": "2025-05-25T01:30:02.876Z",
+      "last_pushed_at": "2025-05-25T01:30:02.876Z",
       "language": "python",
       "lines": 31
     }
