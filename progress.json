@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T21:18:05.151Z",
+  "generated_at": "2026-10-24T21:18:06.765Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -377,6 +377,71 @@
       "last_pushed_at": "2025-05-25T01:30:02.876Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:30": {
+      "kind": "problem",
+      "id": "30",
+      "title": "Batch Iterator for Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/30",
+      "path": "problems/0030-batch-iterator-for-dataset",
+      "first_solved_at": "2025-06-27T00:21:01.009Z",
+      "last_pushed_at": "2025-06-27T00:21:01.009Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:31": {
+      "kind": "problem",
+      "id": "31",
+      "title": "Divide Dataset Based on Feature Threshold",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/31",
+      "path": "problems/0031-divide-dataset-based-on-feature-threshold",
+      "first_solved_at": "2025-06-27T00:29:55.836Z",
+      "last_pushed_at": "2025-06-27T00:29:55.836Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2025-06-27T21:51:47.765Z",
+      "last_pushed_at": "2025-06-27T21:51:47.765Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2025-06-27T22:06:12.128Z",
+      "last_pushed_at": "2025-06-27T22:06:12.128Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:32": {
+      "kind": "problem",
+      "id": "32",
+      "title": "Generate Sorted Polynomial Features",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/32",
+      "path": "problems/0032-generate-sorted-polynomial-features",
+      "first_solved_at": "2025-06-27T22:07:49.018Z",
+      "last_pushed_at": "2025-06-27T22:07:49.018Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
