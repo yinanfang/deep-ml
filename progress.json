@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T21:18:06.765Z",
+  "generated_at": "2026-10-24T21:18:08.384Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -440,6 +440,58 @@
       "path": "problems/0032-generate-sorted-polynomial-features",
       "first_solved_at": "2025-06-27T22:07:49.018Z",
       "last_pushed_at": "2025-06-27T22:07:49.018Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:33": {
+      "kind": "problem",
+      "id": "33",
+      "title": "Generate Random Subsets of a Dataset",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/33",
+      "path": "problems/0033-generate-random-subsets-of-a-dataset",
+      "first_solved_at": "2025-06-28T00:20:45.237Z",
+      "last_pushed_at": "2025-06-28T00:20:45.237Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:34": {
+      "kind": "problem",
+      "id": "34",
+      "title": "One-Hot Encoding of Nominal Values",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/34",
+      "path": "problems/0034-one-hot-encoding-of-nominal-values",
+      "first_solved_at": "2025-06-28T18:28:01.968Z",
+      "last_pushed_at": "2025-06-28T18:28:01.968Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:37": {
+      "kind": "problem",
+      "id": "37",
+      "title": "Calculate Correlation Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/37",
+      "path": "problems/0037-calculate-correlation-matrix",
+      "first_solved_at": "2025-06-28T18:29:52.290Z",
+      "last_pushed_at": "2025-06-28T18:29:52.290Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:93": {
+      "kind": "problem",
+      "id": "93",
+      "title": "Calculate Mean Absolute Error (MAE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/93",
+      "path": "problems/0093-calculate-mean-absolute-error-mae",
+      "first_solved_at": "2025-06-28T18:32:01.292Z",
+      "last_pushed_at": "2025-06-28T18:32:01.292Z",
       "language": "python",
       "lines": 15
     }
