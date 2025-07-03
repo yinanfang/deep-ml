@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T21:18:10.077Z",
+  "generated_at": "2026-10-24T21:18:11.661Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -507,6 +507,32 @@
       "last_pushed_at": "2025-07-02T19:07:34.609Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:73": {
+      "kind": "problem",
+      "id": "73",
+      "title": "Calculate Dice Score for Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/73",
+      "path": "problems/0073-calculate-dice-score-for-classification",
+      "first_solved_at": "2025-07-03T21:15:17.801Z",
+      "last_pushed_at": "2025-07-03T21:15:17.801Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2025-07-03T22:21:08.795Z",
+      "last_pushed_at": "2025-07-03T22:21:08.795Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
