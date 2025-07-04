@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T21:18:11.661Z",
+  "generated_at": "2026-10-24T21:18:13.420Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -533,6 +533,97 @@
       "last_pushed_at": "2025-07-03T22:21:08.795Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:40": {
+      "kind": "problem",
+      "id": "40",
+      "title": "Implementing a Custom Dense Layer in Python",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/40",
+      "path": "problems/0040-implementing-a-custom-dense-layer-in-python",
+      "first_solved_at": "2025-07-04T21:52:22.114Z",
+      "last_pushed_at": "2025-07-04T21:52:22.114Z",
+      "language": "python",
+      "lines": 44
+    },
+    "problem:100": {
+      "kind": "problem",
+      "id": "100",
+      "title": "Implement the Softsign Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/100",
+      "path": "problems/0100-implement-the-softsign-activation-function",
+      "first_solved_at": "2025-07-04T21:54:05.634Z",
+      "last_pushed_at": "2025-07-04T21:54:05.634Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2025-07-04T22:38:51.408Z",
+      "last_pushed_at": "2025-07-04T22:38:51.408Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:43": {
+      "kind": "problem",
+      "id": "43",
+      "title": "Implement Ridge Regression Loss Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/43",
+      "path": "problems/0043-implement-ridge-regression-loss-function",
+      "first_solved_at": "2025-07-04T22:45:51.299Z",
+      "last_pushed_at": "2025-07-04T22:45:51.299Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2025-07-04T23:03:09.400Z",
+      "last_pushed_at": "2025-07-04T23:03:09.400Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:45": {
+      "kind": "problem",
+      "id": "45",
+      "title": "Linear Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/45",
+      "path": "problems/0045-linear-kernel-function",
+      "first_solved_at": "2025-07-04T23:04:46.459Z",
+      "last_pushed_at": "2025-07-04T23:04:46.459Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2025-07-04T23:09:35.863Z",
+      "last_pushed_at": "2025-07-04T23:09:35.863Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
